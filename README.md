@@ -97,5 +97,13 @@ Startups developing customer-facing applications that require frequent updates a
 - **Customer Involvement:** Waterfall has less frequent customer involvement; Agile involves customers continuously for feedback.
 - **Risk Management:** Waterfall might encounter risks at later stages due to its sequential nature; Agile mitigates risks early through regular sprints and reviews.
 
+### 5. Describe the roles and responsibilities of key software engineering team members.
+
+Software Developer – Codes and implements features based on project requirements.
+
+Quality Assurance (QA) Engineer – Tests the software for bugs and ensures quality standards.
+
+Project Manager – Oversees project execution, ensures deadlines are met, and communicates with stakeholders.
+
 
 
