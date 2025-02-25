@@ -56,3 +56,12 @@ This replaced the rigid Waterfall methods and emphasis on Collaboration, Adaptab
 
 7. Maintenance – Ongoing updates and improvements.
 
+### 4.Compare and contrast the Waterfall and Agile methodologies.
+
+Example Use Cases:
+
+Waterfall – Here the government or defense projects are done with strict documentation as part of the requirements.
+
+Agile – Startups developing customer-facing applications with frequent updates.
+
+
