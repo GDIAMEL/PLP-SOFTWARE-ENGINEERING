@@ -170,26 +170,19 @@ User Feedback – Address bugs based on their impact on user experience.
 
 **Ensuring Security**
 
-Challenge: New vulnerabilities constantly emerge, increasing security risks.
-Strategy:
+**Challenge:** New vulnerabilities constantly emerge, increasing security risks arising from cyber attacks. These can be resolved by the following strategy:
 
 Security Training – Keep teams updated on best security practices.
 
-Automated Code Analysis – Use tools to detect vulnerabilities early.
-
-Penetration Testing – Regularly test applications for security flaws.
+Penetration Testing – software engineers can regularly test applications for security flaws.
 
 
 **Maintaining Work-Life Balance**
 
-Challenge: Tight deadlines and heavy workloads can lead to burnout.
-Strategy:
+**Challenge:** Tight deadlines and heavy workloads can lead to burnout thus reduced social life. This can be resolved by the following:
 
-Time Management – Use productivity tools to set realistic deadlines.
+Time Management – Software Engineers can use productivity tools to set realistic deadlines and meet their end goals.
 
-Healthy Work Culture – Encourage breaks, flexible schedules, and a balanced workload.
-
-Team Support – Foster a culture where workload concerns can be openly discussed.
 
 
 
