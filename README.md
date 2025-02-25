@@ -99,11 +99,11 @@ Startups developing customer-facing applications that require frequent updates a
 
 ### 5. Describe the roles and responsibilities of key software engineering team members.
 
-Software Developer – Codes and implements features based on project requirements.
+**Software Developer:** Their role is to Code and implement features based on project requirements.
 
-Quality Assurance (QA) Engineer – Tests the software for bugs and ensures quality standards.
+**Quality Assurance (QA) Engineer:** they test softwares for bugs and ensures quality standards.
 
-Project Manager – Oversees project execution, ensures deadlines are met, and communicates with stakeholders.
+**Project Manager:** Their role is to oversee project execution, ensuring deadlines are met, and communicates with stakeholders.
 
 ### 6. Importance of IDEs and VCS in Software Development
 
@@ -112,9 +112,13 @@ Project Manager – Oversees project execution, ensures deadlines are met, and c
 IDEs play a crucial role in enhancing the productivity and efficiency of developers by offering a comprehensive suite of tools within a single application. Here are some key aspects:
 
 **Code Completion & Syntax Highlighting**: Intelligent code suggestions and syntax distinction for efficient coding and debugging.
+
 **Debugging Tools**: Built-in tools for setting breakpoints, stepping through code, and inspecting variables.
+
 **Integrated Version Control**: Manage code changes directly from the IDE.
+
 **Project Management**: Features like task runners, build tools, and deployment options.
+
 **Extensions & Plugins**: Customizable environment to fit specific needs for enhanced efficiency.
 
 **Version Control Systems (VCS)**
@@ -123,9 +127,13 @@ An example of this is Git which is essential for managing changes to the codebas
 
 
 **Collaboration**: VCS supports teamwork by allowing multiple developers to work on the same project simultaneously, with features like branching and merging.
+
 **Tracking Changes**: Maintains a detailed history of code changes, useful for understanding project evolution and troubleshooting.
+
 **Backup and Recovery**: Provides a complete backup of the project's history, allowing for easy restoration of previous versions.
+
 **Code Review and Quality Assurance**: Includes tools for code review to ensure code quality and consistency.
+
 **Integration with CI/CD Pipelines**: Automates testing and deployment processes, enhancing development efficiency and reliability.
 
 
