@@ -1,5 +1,6 @@
 # PLP-SOFTWARE-ENGINEERING
 ## ASSIGNMENT ONE
+## PART ONE
 ### 1. Explain what software engineering is and discuss its importance in the technology industry
 
 **Software Engineering**: Software engineering is the organized use of engineering concepts to plan, create, test, deploy, and keep up with software systems.
@@ -48,30 +49,36 @@ This replaced the rigid Waterfall methods and emphasis on Collaboration, Adaptab
 
 ### 4. Compare and contrast the Waterfall and Agile methodologies.
 
-**Waterfall Methodolog**
+**WATERFALL METHODOLOGY**
 
 Waterfall is a sequential process where progress is seen as flowing steadily downwards like a waterfall through several phases such as Conception, Initiation, Analysis, Design, Construction, Testing, and Maintenance.
 
 **Characteristics:**
 
 **Sequential Process:** Each phase must be completed before the next begins.
+
 **Rigid Structure:** Changes are difficult to implement once a phase is complete.
+
 **Extensive Documentation:** Documentation is created at each phase.
+
 **Fixed Requirements:** Requirements are defined at the beginning and are not expected to change.
 
 **Example** 
 
 Government or defense projects with strict documentation requirements where every phase must be meticulously documented and reviewed for compliance and security.
 
-**Agile Methodology**
+**AGILE METHODOLOGY**
 
 Agile is an iterative and incremental approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches.
 
 **Characteristics:**
 
 **Iterative Process:** Work is done in small increments called sprints, typically lasting 1-4 weeks.
+
 **Flexible Structure:** Changes can be made even late in the development process.
+
 **Minimal Documentation:** Focuses more on delivering working software than creating extensive documentation.
+
 **Dynamic Requirements:** Requirements evolve as the project progresses based on customer feedback and changing needs.
 
 **Example** 
@@ -96,9 +103,9 @@ Startups developing customer-facing applications that require frequent updates a
 
 **Software Developer:** Their role is to Code and implement features based on project requirements.
 
-**Quality Assurance (QA) Engineer:** they test softwares for bugs and ensures quality standards.
+**Quality Assurance (QA) Engineer:** they test software for bugs and ensure quality standards.
 
-**Project Manager:** Their role is to oversee project execution, ensuring deadlines are met, and communicates with stakeholders.
+**Project Manager:** Their role is to oversee project execution, ensure deadlines are met, and communicate with stakeholders.
 
 ### 6. Importance of IDEs and VCS in Software Development
 
@@ -195,11 +202,39 @@ Example: Running end-to-end tests on an online banking system to validate transa
 
 **Acceptance Testing**
 
-Acceptance testing Determines whether the software meets user expectations and business requirements.
-Purpose: Validates that the system is ready for deployment.
-Importance: Ensures the software is user-friendly and meets business goals before release.
+Acceptance testing determines whether the software meets user expectations and business requirements. It is used to validate whether the system is ready for deployment. It is important as it ensures that the software is user-friendly and meets business goals before it is released.
+
 Example: A client testing an inventory management system to confirm it meets their operational needs.
 
+## PART TWO
+
+### 9. Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt engineering is the practice of designing clear and effective instructions to interact with AI models thus clear and accurate responses.
+
+**Importance of Prompt Engineering**
+
+It enhances AI Understanding therefore leading to more precise and relevant outputs.
+
+It improves efficiency thus reducing the need for multiple refinements.
+
+It optimizes AI Capabilities thus allowing meaningful insights and complex task performance.
+
+### 10. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+**Vague Prompt**
+"Tell me about AI."
+
+**Improved Prompt**
+"Explain the impact of artificial intelligence on the job market, focusing on automation and employment trends."
+
+**Reasons as to why the Improved Prompt is better**
+
+Specificity: Narrows the topic to AI and its effect on jobs.
+
+Clarity: Clearly defines the focus on automation and employment trends.
+
+Conciseness: Keeps the request direct and actionable for the AI.
 
 
 
