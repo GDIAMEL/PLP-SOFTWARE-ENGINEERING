@@ -1,4 +1,4 @@
-# PLP-SOFTWARE-ENGINEERING
+I'm# PLP-SOFTWARE-ENGINEERING
 ## ASSIGNMENT ONE
 ### 1. Explain what software engineering is and discuss its importance in the technology industry
 
@@ -33,4 +33,26 @@ The shift from Procedural to Object-Oriented Programming (OOP) occurred. In this
 **Emergence of Agile Methodology (2001 - Agile Manifesto)**
 
 This replaced the rigid Waterfall methods and emphasis on Collaboration, Adaptability, and Iterative Development.
+
+### 3. List and briefly explain the phases of the Software Development Life Cycle (SDLC).
+
+1. Requirement Analysis – Gathering and defining project requirements.
+
+
+2. Planning – Creating a roadmap, budget, and timeline.
+
+
+3. Design – Structuring the software architecture and UI/UX design.
+
+
+4. Implementation (Coding) – Writing the actual software code.
+
+
+5. Testing – Identifying and fixing bugs before deployment.
+
+
+6. Deployment – Releasing the software to users.
+
+
+7. Maintenance – Ongoing updates and improvements.
 
