@@ -223,9 +223,11 @@ It optimizes AI Capabilities thus allowing meaningful insights and complex task 
 ### 10. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Vague Prompt**
+
 "Tell me about AI."
 
 **Improved Prompt**
+
 "Explain the impact of artificial intelligence on the job market, focusing on automation and employment trends."
 
 **Reasons as to why the Improved Prompt is better**
