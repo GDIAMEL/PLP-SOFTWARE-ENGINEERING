@@ -90,12 +90,17 @@ Startups developing customer-facing applications that require frequent updates a
 
 ### **Comparison and Contrast**
 
-- **Process:** Waterfall is linear and sequential, while Agile is iterative and incremental.
-- **Flexibility:** Waterfall is rigid and does not handle changes well, whereas Agile is highly flexible and welcomes changes.
-- **Documentation:** Waterfall requires extensive documentation; Agile focuses on minimal but essential documentation.
-- **Requirement Stability:** Waterfall assumes stable requirements from the beginning; Agile works with evolving requirements.
-- **Customer Involvement:** Waterfall has less frequent customer involvement; Agile involves customers continuously for feedback.
-- **Risk Management:** Waterfall might encounter risks at later stages due to its sequential nature; Agile mitigates risks early through regular sprints and reviews.
+**Process:** Waterfall is linear and sequential, while Agile is iterative and incremental.
+
+**Flexibility:** Waterfall is rigid and does not handle changes well, whereas Agile is highly flexible and welcomes changes.
+
+**Documentation:** Waterfall requires extensive documentation; Agile focuses on minimal but essential documentation.
+
+**Requirement Stability:** Waterfall assumes stable requirements from the beginning; Agile works with evolving requirements.
+
+**Customer Involvement:** Waterfall has less frequent customer involvement; Agile involves customers continuously for feedback.
+
+**Risk Management:** Waterfall might encounter risks at later stages due to its sequential nature; Agile mitigates risks early through regular sprints and reviews.
 
 ### 5. Describe the roles and responsibilities of key software engineering team members.
 
@@ -150,19 +155,15 @@ Continuous Learning and Networking –  this will help them stay updated through
 
 **Challenge:** Poorly managed technical debt can slow development and increase maintenance costs.For software engineers to solve this they should perform:
 
-Code Reviews – Regularly review and optimize code to prevent long-term issues.
+Code Reviews – The regular review and code optimization prevents long-term issues.
 
-Refactoring – Allocate time to improve existing code incrementally.
-
-Documentation – Maintain clear documentation to support sustainable development.
-
+Refactoring – They should allocate time to improve existing code incrementally.
 
 **Balancing Feature Development and Bug Fixes**
 
-Challenge: Prioritizing new features over bug fixes can degrade product quality.
-Strategy:
+**Challenge:** Prioritizing new features over bug fixes can degrade product quality. Software engineers should implement the following strategies:
 
-Agile Methodologies – Use Scrum or Kanban to manage priorities efficiently.
+Agile Methodologies – They can use Scrum or Kanban to manage priorities efficiently.
 
 User Feedback – Address bugs based on their impact on user experience.
 
